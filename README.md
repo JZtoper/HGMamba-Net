@@ -1,2 +1,2 @@
 # HGMamba-Net
-The configuration of the environment is based on nnUnet and Umamba.
+The environment configuration can be referred to as nnUnet and Umamba. Simply replace the relevant file packages.
